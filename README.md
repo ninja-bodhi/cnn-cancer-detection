@@ -56,3 +56,6 @@ From these experiments, I learned that:
 4. **Hyperparameter Optimization**: Automated hyperparameter optimization techniques such as grid search, random search, or Bayesian optimization can help find the optimal hyperparameters more efficiently.
 
 By applying these techniques, future models can achieve even better performance and generalization.
+
+## 6. Submission
+![alt text](./image/image-5.png)
